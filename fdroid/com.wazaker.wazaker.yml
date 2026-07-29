@@ -17,7 +17,7 @@ Builds:
     versionCode: 1
     commit: v1.0.0
     subdir: android
-    output: android/app/build/outputs/apk/release/app-release-unsigned.apk
+    output: app/build/outputs/apk/release/app-release-unsigned.apk
     gradle:
       - yes
 
