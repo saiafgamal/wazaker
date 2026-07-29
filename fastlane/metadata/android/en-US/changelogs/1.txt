@@ -1,0 +1,7 @@
+Initial Wazaker release.
+
+• Verse reminders at times you choose.
+• Reminder and verse archive.
+• Favorites and read-later lists.
+• Shareable verse images.
+• Complete right-to-left Arabic interface.

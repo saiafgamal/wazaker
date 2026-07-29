@@ -1,0 +1,16 @@
+Wazaker is a lightweight Arabic app that helps you remember the Hereafter through selected verses from the Qur'an.
+
+Choose reminder times that suit you, read each verse with its reference and a short reflection, and return to earlier reminders from the archive whenever you wish.
+
+Features:
+
+• Selected verse reminders at times you choose.
+• A complete right-to-left Arabic interface.
+• An archive of earlier reminders and verses.
+• Favorites and a read-later list.
+• Personal notes stored on your device.
+• Shareable verse images.
+• Simple controls for reminders and display preferences.
+• No account or internet connection required.
+
+Wazaker is designed to be quiet and lightweight, with no ads, analytics, or tracking.

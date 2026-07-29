@@ -1,0 +1,26 @@
+Categories:
+  - Religion
+License: Apache-2.0
+AuthorName: Saiaf Gamal
+AuthorEmail: hello@saiaf.me
+AuthorWebSite: https://saiaf.me
+SourceCode: https://github.com/saiafgamal/wazaker
+IssueTracker: https://github.com/saiafgamal/wazaker/issues
+
+AutoName: Wazaker
+
+RepoType: git
+Repo: https://github.com/saiafgamal/wazaker.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: android
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags ^v[0-9].*
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
