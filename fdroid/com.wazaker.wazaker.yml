@@ -15,9 +15,8 @@ Repo: https://github.com/saiafgamal/wazaker.git
 Builds:
   - versionName: 1.0.0
     versionCode: 1
-    commit: v1.0.0
-    subdir: android
-    output: app/build/outputs/apk/release/app-release-unsigned.apk
+    commit: 694635d11b51b0dd0b9df21582ed23df3071d148
+    subdir: android/app
     gradle:
       - yes
 
